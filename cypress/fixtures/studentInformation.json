@@ -1,0 +1,12 @@
+{
+  "firstName": "Test",
+  "lastName": "last",
+  "email": "",
+  "gender": "Male",
+  "mobile": "1234567890",
+  "dob": "Sep 25 1990",
+  "subjects": "Arts",
+  "hobby": "sports",
+  "picture": "path",
+  "currentAddress": "This is test address"
+}

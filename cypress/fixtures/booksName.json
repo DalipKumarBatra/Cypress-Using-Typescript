@@ -1,0 +1,34 @@
+{
+  "0": {
+    "name":"Git Pocket Guide",
+    "link": "https://demoqa.com/books?book=9781449325862"
+  },
+  "1": {
+    "name": "Learning JavaScript Design Patterns",
+    "link": "https://demoqa.com/books?book=9781449331818"
+  },
+  "2": {
+    "name": "Designing Evolvable Web APIs with ASP.NET",
+    "link": "https://demoqa.com/books?book=9781449337711"
+  },
+  "3": {
+    "name":"Speaking JavaScript",
+    "link": "https://demoqa.com/books?book=9781449365035"
+  },
+  "4": {
+    "name": "You Don't Know JS",
+    "link": "https://demoqa.com/books?book=9781491904244"
+  },
+  "5": {
+    "name": "Programming JavaScript Applications",
+    "link": "https://demoqa.com/books?book=9781491950296"
+  },
+  "6": {
+    "name": "Eloquent JavaScript, Second Edition",
+    "link": "https://demoqa.com/books?book=9781593275846"
+  },
+  "7": {
+    "name": "Understanding ECMAScript 6",
+    "link": "https://demoqa.com/books?book=9781593277574"
+  }
+}
